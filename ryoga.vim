@@ -5,6 +5,7 @@ Plug 'tomasr/molokai'
 Plug 'tpope/vim-surround'
 Plug 'jiangmiao/auto-pairs'
 Plug 'vim-airline/vim-airline'
+Plug 'tpope/vim-repeat'
 call plug#end()
 
 set number
